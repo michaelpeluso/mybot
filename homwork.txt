@@ -1,3 +1,0 @@
-make a program that calculates gpt4 tokens
-
-use the faker library to generate test case material
